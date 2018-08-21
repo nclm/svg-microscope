@@ -1,8 +1,8 @@
 {
-	"_version":		"0.2",
+	"_version":		"0.2.1",
 	"_github":		"https://github.com/nclm/svg-microscope",
 	"_twitter":		"https://twitter.com/svg_microscope",
-	"_mastodon":		"https://botsin.space/@microscope",
+	"_mastodon":	"https://botsin.space/@microscope",
 	"origin":		"#structure#",
 	"structure": 	"#start_svg##defs##around##background##view##end_svg#",
 	"start_svg":	"{svg <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'  #w_h#>",
